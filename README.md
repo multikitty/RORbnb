@@ -1,8 +1,6 @@
-## Adventurebnb
+## RORbnb (Airbnb imitation)
 
-[Live Link](https://adventurebnb.herokuapp.com/#/)
-
-Welcome to Adventurebnb - my single-page clone of Airbnb. My web-app includes many of the features that can be found on the real Airbnb, including the ability to search for over 60 listings in 5 different cities, view their exact location via the Google Maps API, and book, edit, or cancel a booking at any of these listings.
+Welcome to RORbnb - my single-page clone of Airbnb. My web-app includes many of the features that can be found on the real Airbnb, including the ability to search for over 60 listings in 5 different cities, view their exact location via the Google Maps API, and book, edit, or cancel a booking at any of these listings.
 
 ![Splash Page](https://user-images.githubusercontent.com/39382120/54859657-2c7e6b80-4ccd-11e9-9f4b-ed4ae2436961.png "Splash Page")
 
